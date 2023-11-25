@@ -35,7 +35,7 @@ const displayPhones = (phones, isShowAll) => {
                     <figure><img src="${phone.image}" alt="" /></figure>
                     <div class="card-body">
                         <h2 class="card-title">${phone.phone_name}</h2>
-                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <p> Check out the best tech gifts that you are looking for.</p>
                         <div class="card-actions justify-center">
                             <button onclick="handleShowDetails('${phone.slug}')" class="btn btn-primary">Show Details</button>
                         </div>
